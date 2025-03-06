@@ -1,0 +1,15 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 138c409..1dd6d74 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -5,4 +5,4 @@[m [mthis is demo for git &amp; github class.[m
+ Shradha khapra[m
+ [m
+ # Student[m
+[31m-Delta-student[m
+\ No newline at end of file[m
+[32m+[m[32mDelta-studentc[m
+\ No newline at end of file[m
+[1mdiff --git a/txt.html b/txt.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
